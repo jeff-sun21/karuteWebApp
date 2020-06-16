@@ -1,0 +1,50 @@
+https://serverless-stack.com/chapters/create-a-new-reactjs-app.html
+
+１．node.jsとnpmをインストール　https://nodejs.org
+２．コマンドプロンプトで新APP作成：
+npx create-react-app my-app
+cd karute-app
+
+npm install react-bootstrap@0.33.1 --save
+
+npm install react-router-dom@5.1.2 --save
+
+npm install react-router-bootstrap --save
+
+npm install aws-amplify --save
+
+
+//WebSvr起動
+npm start
+
+
+  Local:            http://localhost:3000
+
+
+//ビルド
+npm run build
+
+
+//Eclipseインストール
+Eclipse IDE for JavaScript and Web Developers
+
+Version: 2020-03 (4.15.0)
+Build id: 20200313-1211
+
+//GitBashでnpm start
+
+//Firewall port 3000 受信と送信を開きました
+
+//WiFi Routerのポートマッピングを開くと外側から見える
+
+npm install --save react-html5-camera-photo
+
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+npm install --save data-uri-to-file
+npm install file-system --save
+npm install image-data-uri
+
+chrome://flags/#unsafely-treat-insecure-origin-as-secure
+登録：　http://192.168.1.4:3000
+
